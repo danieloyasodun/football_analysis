@@ -1,0 +1,9 @@
+training/
+runs/
+*__pycahce__*
+*.pyc
+.venv
+venv
+yolov5xu.pt
+yolov8x.pt
+models/
