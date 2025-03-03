@@ -7,6 +7,6 @@
 # Original Tutorial
 - [Walkthrough Repo](https://github.com/abdullahtarek/football_analysis)
 
-- [Walkthrough](https://youtu.be/vyqbNFMDRGQ?si=aN3yngxrOtBmIBwN)
+- [Walkthrough](https://www.youtube.com/watch?v=neBZ6huolkg)
 
 - [Sample input video](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
